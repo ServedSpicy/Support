@@ -8,6 +8,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ## Ｓｏｆｔｗａｒｅ
 
@@ -17,6 +19,8 @@
 [![Button Update]][Update]      
 [![Button Uninstall]][Uninstall]
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -30,6 +34,7 @@
 
 </div>
 
+<br>
 <br>
 
 
