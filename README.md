@@ -39,9 +39,9 @@
 [Button Parts]: https://img.shields.io/badge/🮖_Parts-26A5E4?style=for-the-badge
 
 
-[Uninstall]: Articles/Software/Uninstall.md
-[Install]: Articles/Software/Install.md
-[Update]: Articles/Software/Update.md
+[Uninstall]: Articles/Software/Uninstall.md 'How to remove the ServeSpicy app.'
+[Install]: Articles/Software/Install.md 'How to install the ServeSpicy app.'
+[Update]: Articles/Software/Update.md 'How to update the ServeSpicy app.'
 
-[Repair]: Articles/Hardware/Repair.md
-[Parts]: Articles/Hardware/Parts.md
+[Repair]: Articles/Hardware/Repair.md 'How to repair your ServeSpicy machine.'
+[Parts]: Articles/Hardware/Parts.md 'Parts overview of the ServeSpicy machine.'
