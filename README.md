@@ -1,7 +1,8 @@
 
 # Support
 
-
+<br>
+<br>
 <br>
 
 <div align = center>
@@ -16,6 +17,7 @@
 
 <br>
 <br>
+<br>
 
 ## Ｈａｒｄｗａｒｅ
 
@@ -25,6 +27,8 @@
 [![Button Parts]][Parts]
 
 </div>
+
+<br>
 
 
 [Button Uninstall]: https://img.shields.io/badge/✖_Uninstall-EF2D5E?style=for-the-badge
