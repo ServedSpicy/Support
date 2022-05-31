@@ -1,11 +1,14 @@
 
 # Software Installation
 
-*How to install the ServeSpicy app.*
+*How to install the ServeSpicy application.*
 
+<br>
 <br>
 
 ## ![Badge Linux]
+
+<br>
 
 ### Shell
 
@@ -15,11 +18,13 @@ curl -sfS https://raw.githubusercontent.com/ServedSpicy/Install/main/.sh | sh
 
 <br>
 <br>
+<br>
 
 ## ![Badge Windows]
 
 *Not currently supported.*
 
+<br>
 <br>
 <br>
 
