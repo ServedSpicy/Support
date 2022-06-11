@@ -1,7 +1,7 @@
 
 # Software Installation
 
-*How to install the ServeSpicy application.*
+*How to install the **ServeSpicy** application.*
 
 <br>
 <br>

@@ -1,11 +1,10 @@
 
-# Repair
+# Parts
 
-*How to repair your **ServeSpicy** machine.*
+*Parts of the **ServeSpicy** machine.*
 
 <br>
 <br>
-
 
 
 <br>
