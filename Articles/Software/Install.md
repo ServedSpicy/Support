@@ -43,6 +43,6 @@
 
 [Badge Download]: https://img.shields.io/badge/Ｉｎｓｔａｌｌｅｒ-008FC7?style=for-the-badge&logoColor=white&width=30&logo=DocuSign
 
-[Installer]: https://github.com/ServedSpicy/Installer/releases/download/0.5.0/ServedSpicy.Installer.zip
+[Installer]: https://github.com/ServedSpicy/Install/releases/download/0.5.0/Install.sh
 
 [#]: #
